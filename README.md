@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/436a2cf6-8c75-4747-ada4-887ff9c3a08a)# Weather Forecast App 🌤️
+# Weather Forecast App 🌤️
 
 This is a responsive weather forecast web application built using:
 
